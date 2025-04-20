@@ -1,5 +1,13 @@
 # Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
+
+## COMPONENTS ADDED:
+
+-Buttons
+-Carousel
+-Hero
+-Collapse
+
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
 &nbsp;
