@@ -3,10 +3,11 @@
 
 ## COMPONENTS ADDED:
 
--Buttons
--Carousel
+-Button (in hero section)
+-Carousel to showcase images
 -Hero
--Collapse
+-Dropdown ("Dive In")
+-Navbar
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
